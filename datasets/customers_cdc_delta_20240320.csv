@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip,segment,kyc_status,kyc_date,created_date,last_updated,cdc_operation
+C002,Maria,Santos,maria.santos@gmail.com,6105551002,202 Chestnut Ave,West Chester,PA,19380,PRIVATE,APPROVED,2021-06-20,2021-06-20,2024-03-20,UPDATE
+C003,David,Okafor,david.okafor@email.com,6105551003,303 Main Blvd,Exton,PA,19341,RETAIL,APPROVED,2024-03-01,2024-03-01,2024-03-20,UPDATE
+C011,Elaine,Moss,elaine.moss@email.com,6105551011,1111 Vineyard Rd,Media,PA,19063,RETAIL,APPROVED,2024-03-20,2024-03-20,2024-03-20,INSERT
+C012,George,Patel,george.patel@invalidomain,6105551012,1212 Broad St,Chester,PA,19013,RETAIL,PENDING,2024-03-20,2024-03-20,2024-03-20,INSERT

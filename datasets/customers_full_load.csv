@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip,segment,kyc_status,kyc_date,created_date,last_updated
+C001,James,Harrington,james.harrington@email.com,6105551001,101 Walnut St,Philadelphia,PA,19103,RETAIL,APPROVED,2022-01-15,2022-01-15,2024-01-10
+C002,Maria,Santos,maria.santos@email.com,6105551002,202 Chestnut Ave,West Chester,PA,19380,RETAIL,APPROVED,2021-06-20,2021-06-20,2024-02-14
+C003,David,Okafor,david.okafor@email.com,6105551003,303 Main Blvd,Exton,PA,19341,RETAIL,PENDING,2024-03-01,2024-03-01,2024-03-01
+C004,Susan,Lin,susan.lin@email.com,6105551004,404 Oak Rd,Paoli,PA,19301,PRIVATE,APPROVED,2020-09-10,2020-09-10,2024-01-22
+C005,Robert,Maddox,robert.maddox@email.com,6105551005,505 Elm St,Malvern,PA,19355,BUSINESS,APPROVED,2019-05-05,2019-05-05,2023-12-01
+C006,Angela,Torres,angela.torres@email.com,6105551006,606 Pine Ave,Coatesville,PA,19320,RETAIL,APPROVED,2023-07-18,2023-07-18,2023-07-18
+C007,Michael,Brennan,michael.brennan@email.com,6105551007,707 Cedar Ln,Wayne,PA,19087,PRIVATE,APPROVED,2018-11-30,2018-11-30,2024-03-05
+C008,Patricia,Nguyen,patricia.nguyen@email.com,6105551008,808 Maple Dr,Berwyn,PA,19312,RETAIL,APPROVED,2022-04-22,2022-04-22,2024-02-28
+C009,Thomas,Obi,thomas.obi@email.com,6105551009,909 Birch Ct,Downingtown,PA,19335,BUSINESS,SUSPENDED,2023-01-10,2023-01-10,2024-01-15
+C010,Linda,Kaur,linda.kaur@email.com,6105551010,1010 Spruce St,Phoenixville,PA,19460,RETAIL,APPROVED,2021-03-14,2021-03-14,2024-03-10

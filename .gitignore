@@ -1,0 +1,45 @@
+# Credentials and secrets — never commit these
+*.env
+.env.*
+*.key
+*.pem
+*_credentials.json
+secrets/
+vault/
+
+# Informatica parameter files with real values (use templates in config/)
+config/prod/PS_BANKING_DAILY_PROD_LIVE.properties
+config/uat/PS_BANKING_DAILY_UAT_LIVE.properties
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+.pytest_cache/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+/tmp/
+
+# Informatica export artifacts (large binary — store in artifact registry)
+*.iar
+*.rep
+*.xml.bak
+
+# Data files that should never be committed (real data, not sample data)
+datasets/prod/
+datasets/live/
+*.dat
